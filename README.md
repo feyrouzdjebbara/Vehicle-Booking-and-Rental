@@ -1,4 +1,5 @@
-![carweb](https://github.com/feyrouzdjebbara/Vehicle_Booking_and_Rental_Platform/assets/86081416/22410d9d-c0ad-4c31-b22a-dcc0a24cb8c2)
+![carweb](https://github.com/feyrouzdjebbara/Vehicle-Booking-and-Rental/assets/86081416/1ed1c391-c2df-48f6-ab42-15e3cee2edd3)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
